@@ -7,7 +7,7 @@
 ## Live Demo  
 Check it out here: [Just a Calculator](https://r4xn.netlify.app/calculator.html)  
 
-# Calculator Web App
+## Calculator Web App
 
 A simple yet powerful calculator built using **HTML**, **Tailwind CSS**, and **JavaScript**. The calculator supports basic arithmetic operations and features a dark/light mode toggle.
 
